@@ -1,0 +1,13 @@
+{
+  "name": "public-domain-check",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "apify": "^3.8.0"
+  }
+}
